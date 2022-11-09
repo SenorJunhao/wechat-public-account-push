@@ -45,7 +45,7 @@ const USER_CONFIG = {
 
     {
       // 想要发送的人的名字
-      name: '徐俊豪',
+      名字: '艳艳酱',
       id: 'SCT181387TsQDlSwXhpEMKcXTuNfqcLBw0',
       useTemplateId: '0001',
       horoscopeDate: '04-03',
