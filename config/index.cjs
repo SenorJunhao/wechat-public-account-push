@@ -43,27 +43,27 @@ const USER_CONFIG = {
     },
 
 
-    {
+    // {
       // 想要发送的人的名字
-      名字: '艳艳酱',
-      id: 'SCT181387TsQDlSwXhpEMKcXTuNfqcLBw0',
-      useTemplateId: '0001',
-      horoscopeDate: '04-03',
-      festivals: [
-        {
-          type: '*生日', name: '徐俊豪', year: '2001', date: '10-06',
-        },
-        {
-          type: '节日', name: '跨年', year: '2022', date: '01-01',
-        },
-      ],
-      customizedDateList: [
+      // 名字: '艳艳酱',
+      // id: 'SCT181387TsQDlSwXhpEMKcXTuNfqcLBw0',
+      // useTemplateId: '0001',
+      // horoscopeDate: '04-03',
+      // festivals: [
+      //   {
+      //     type: '*生日', name: '徐俊豪', year: '2001', date: '10-06',
+      //   },
+      //   {
+      //     type: '节日', name: '跨年', year: '2022', date: '01-01',
+      //   },
+     //  ],
+      // customizedDateList: [
         // 来到时间的第x天
-        { keyword: 'love_day', date: '2001-10-06' },
+      //   { keyword: 'love_day', date: '2001-10-06' },
         // 结婚纪念日
       //   { keyword: 'marry_day', date: '2022-09-09' },
-      ],
-    },
+     //  ],
+    // },
   ],
 
 
