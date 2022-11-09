@@ -6,7 +6,7 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      下个休息日：{{holidaytts.DATA}}
+      下个休息日：{{holidaytts.DATA-1}}
       
       ---
       
@@ -24,7 +24,7 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      你已经来到这个世界的第{{love_day.DATA}}天
+      今天是来到这个世界的第{{love_day.DATA}}天
       
       {{birthday_message.DATA}}
       
