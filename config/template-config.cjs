@@ -6,7 +6,7 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      下个休息日：{{holidaytts.DATA}}*1-1
+      下个休息日：{{holidaytts.DATA}}
       
       ---
       
