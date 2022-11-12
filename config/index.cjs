@@ -64,6 +64,29 @@ const USER_CONFIG = {
       //   { keyword: 'marry_day', date: '2022-09-09' },
      //  ],
     // },
+    
+    
+     {
+       //想要发送的人的名字
+       name: '谢',
+       id: 'SCT182118T6zaFVgGqV6ykJhZt1KotQN8O',
+       useTemplateId: '0001',
+       horoscopeDate: '09-21',
+       festivals: [
+         {
+           type: '*生日', name: '谢', year: '1999', date: '09-21',
+         },
+         {
+           type: '节日', name: '跨年', year: '2022', date: '01-01',
+         },
+       ],
+       customizedDateList: [
+         //来到时间的第x天
+         { keyword: 'love_day', date: '1999-09-21' },
+         //结婚纪念日
+         //{ keyword: 'marry_day', date: '2022-09-09' },
+       ],
+     },
   ],
 
 
